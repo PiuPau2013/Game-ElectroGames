@@ -11,7 +11,16 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+<<<<<<< HEAD
   <rooms name="rooms"/>
+=======
+  <objects name="objects">
+    <object>objects\object0</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
+>>>>>>> origin/master
   <help>
     <rtf>help.rtf</rtf>
   </help>
