@@ -8,12 +8,14 @@
   <sprites name="sprites">
     <sprite>sprites\sprite_player</sprite>
     <sprite>sprites\sprite_enemy1</sprite>
+    <sprite>sprites\sprite_enemy2</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object_player</object>
     <object>objects\object_enemy1</object>
+    <object>objects\object_enemy2</object>
   </objects>
   <help>
     <rtf>help.rtf</rtf>
