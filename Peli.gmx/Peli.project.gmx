@@ -6,13 +6,23 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+<<<<<<< HEAD
     <sprite>sprites\sprite_enemy1</sprite>
+=======
+    <sprite>sprites\sprite_player</sprite>
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
+<<<<<<< HEAD
     <object>objects\object_enemy1</object>
   </objects>
+=======
+    <object>objects\object_player</object>
+  </objects>
+  <rooms name="rooms"/>
+>>>>>>> origin/master
   <help>
     <rtf>help.rtf</rtf>
   </help>
