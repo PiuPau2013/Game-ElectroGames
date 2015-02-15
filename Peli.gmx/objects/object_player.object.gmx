@@ -106,7 +106,7 @@ if keyboard_check(ord("D")) &amp;&amp; place_free(x+5,y) {x+=5 image_speed=0.7}
 {
     sprite_index = sprite_player_attack
     attack = true
-    alarm[0]=1
+    alarm[0]=3
 }
 </string>
           </argument>
